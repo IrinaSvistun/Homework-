@@ -1,0 +1,15 @@
+C:\Users\irish\OneDrive\Рабочий стол\ДЗ знакомство с языками программирования\even number\bin\Debug\net6.0\even number.exe
+C:\Users\irish\OneDrive\Рабочий стол\ДЗ знакомство с языками программирования\even number\bin\Debug\net6.0\even number.deps.json
+C:\Users\irish\OneDrive\Рабочий стол\ДЗ знакомство с языками программирования\even number\bin\Debug\net6.0\even number.runtimeconfig.json
+C:\Users\irish\OneDrive\Рабочий стол\ДЗ знакомство с языками программирования\even number\bin\Debug\net6.0\even number.dll
+C:\Users\irish\OneDrive\Рабочий стол\ДЗ знакомство с языками программирования\even number\bin\Debug\net6.0\even number.pdb
+C:\Users\irish\OneDrive\Рабочий стол\ДЗ знакомство с языками программирования\even number\obj\Debug\net6.0\even number.csproj.AssemblyReference.cache
+C:\Users\irish\OneDrive\Рабочий стол\ДЗ знакомство с языками программирования\even number\obj\Debug\net6.0\even number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irish\OneDrive\Рабочий стол\ДЗ знакомство с языками программирования\even number\obj\Debug\net6.0\even number.AssemblyInfoInputs.cache
+C:\Users\irish\OneDrive\Рабочий стол\ДЗ знакомство с языками программирования\even number\obj\Debug\net6.0\even number.AssemblyInfo.cs
+C:\Users\irish\OneDrive\Рабочий стол\ДЗ знакомство с языками программирования\even number\obj\Debug\net6.0\even number.csproj.CoreCompileInputs.cache
+C:\Users\irish\OneDrive\Рабочий стол\ДЗ знакомство с языками программирования\even number\obj\Debug\net6.0\even number.dll
+C:\Users\irish\OneDrive\Рабочий стол\ДЗ знакомство с языками программирования\even number\obj\Debug\net6.0\refint\even number.dll
+C:\Users\irish\OneDrive\Рабочий стол\ДЗ знакомство с языками программирования\even number\obj\Debug\net6.0\even number.pdb
+C:\Users\irish\OneDrive\Рабочий стол\ДЗ знакомство с языками программирования\even number\obj\Debug\net6.0\even number.genruntimeconfig.cache
+C:\Users\irish\OneDrive\Рабочий стол\ДЗ знакомство с языками программирования\even number\obj\Debug\net6.0\ref\even number.dll

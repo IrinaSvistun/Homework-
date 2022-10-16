@@ -1,0 +1,15 @@
+C:\Users\irish\OneDrive\Рабочий стол\ДЗ знакомство с языками программирования\even from 1 to N\obj\Debug\net6.0\even from 1 to N.csproj.AssemblyReference.cache
+C:\Users\irish\OneDrive\Рабочий стол\ДЗ знакомство с языками программирования\even from 1 to N\obj\Debug\net6.0\even from 1 to N.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irish\OneDrive\Рабочий стол\ДЗ знакомство с языками программирования\even from 1 to N\obj\Debug\net6.0\even from 1 to N.AssemblyInfoInputs.cache
+C:\Users\irish\OneDrive\Рабочий стол\ДЗ знакомство с языками программирования\even from 1 to N\obj\Debug\net6.0\even from 1 to N.AssemblyInfo.cs
+C:\Users\irish\OneDrive\Рабочий стол\ДЗ знакомство с языками программирования\even from 1 to N\obj\Debug\net6.0\even from 1 to N.csproj.CoreCompileInputs.cache
+C:\Users\irish\OneDrive\Рабочий стол\ДЗ знакомство с языками программирования\even from 1 to N\bin\Debug\net6.0\even from 1 to N.exe
+C:\Users\irish\OneDrive\Рабочий стол\ДЗ знакомство с языками программирования\even from 1 to N\bin\Debug\net6.0\even from 1 to N.deps.json
+C:\Users\irish\OneDrive\Рабочий стол\ДЗ знакомство с языками программирования\even from 1 to N\bin\Debug\net6.0\even from 1 to N.runtimeconfig.json
+C:\Users\irish\OneDrive\Рабочий стол\ДЗ знакомство с языками программирования\even from 1 to N\bin\Debug\net6.0\even from 1 to N.dll
+C:\Users\irish\OneDrive\Рабочий стол\ДЗ знакомство с языками программирования\even from 1 to N\bin\Debug\net6.0\even from 1 to N.pdb
+C:\Users\irish\OneDrive\Рабочий стол\ДЗ знакомство с языками программирования\even from 1 to N\obj\Debug\net6.0\even from 1 to N.dll
+C:\Users\irish\OneDrive\Рабочий стол\ДЗ знакомство с языками программирования\even from 1 to N\obj\Debug\net6.0\refint\even from 1 to N.dll
+C:\Users\irish\OneDrive\Рабочий стол\ДЗ знакомство с языками программирования\even from 1 to N\obj\Debug\net6.0\even from 1 to N.pdb
+C:\Users\irish\OneDrive\Рабочий стол\ДЗ знакомство с языками программирования\even from 1 to N\obj\Debug\net6.0\even from 1 to N.genruntimeconfig.cache
+C:\Users\irish\OneDrive\Рабочий стол\ДЗ знакомство с языками программирования\even from 1 to N\obj\Debug\net6.0\ref\even from 1 to N.dll

@@ -1,0 +1,15 @@
+C:\Users\irish\OneDrive\Рабочий стол\ДЗ знакомство с языками программирования\find max\obj\Debug\net6.0\find max.csproj.AssemblyReference.cache
+C:\Users\irish\OneDrive\Рабочий стол\ДЗ знакомство с языками программирования\find max\obj\Debug\net6.0\find max.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irish\OneDrive\Рабочий стол\ДЗ знакомство с языками программирования\find max\obj\Debug\net6.0\find max.AssemblyInfoInputs.cache
+C:\Users\irish\OneDrive\Рабочий стол\ДЗ знакомство с языками программирования\find max\obj\Debug\net6.0\find max.AssemblyInfo.cs
+C:\Users\irish\OneDrive\Рабочий стол\ДЗ знакомство с языками программирования\find max\obj\Debug\net6.0\find max.csproj.CoreCompileInputs.cache
+C:\Users\irish\OneDrive\Рабочий стол\ДЗ знакомство с языками программирования\find max\bin\Debug\net6.0\find max.exe
+C:\Users\irish\OneDrive\Рабочий стол\ДЗ знакомство с языками программирования\find max\bin\Debug\net6.0\find max.deps.json
+C:\Users\irish\OneDrive\Рабочий стол\ДЗ знакомство с языками программирования\find max\bin\Debug\net6.0\find max.runtimeconfig.json
+C:\Users\irish\OneDrive\Рабочий стол\ДЗ знакомство с языками программирования\find max\bin\Debug\net6.0\find max.dll
+C:\Users\irish\OneDrive\Рабочий стол\ДЗ знакомство с языками программирования\find max\bin\Debug\net6.0\find max.pdb
+C:\Users\irish\OneDrive\Рабочий стол\ДЗ знакомство с языками программирования\find max\obj\Debug\net6.0\find max.dll
+C:\Users\irish\OneDrive\Рабочий стол\ДЗ знакомство с языками программирования\find max\obj\Debug\net6.0\refint\find max.dll
+C:\Users\irish\OneDrive\Рабочий стол\ДЗ знакомство с языками программирования\find max\obj\Debug\net6.0\find max.pdb
+C:\Users\irish\OneDrive\Рабочий стол\ДЗ знакомство с языками программирования\find max\obj\Debug\net6.0\find max.genruntimeconfig.cache
+C:\Users\irish\OneDrive\Рабочий стол\ДЗ знакомство с языками программирования\find max\obj\Debug\net6.0\ref\find max.dll

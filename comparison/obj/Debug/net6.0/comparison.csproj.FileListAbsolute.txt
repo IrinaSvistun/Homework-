@@ -1,0 +1,15 @@
+C:\Users\irish\OneDrive\Рабочий стол\ДЗ знакомство с языками программирования\comparison\bin\Debug\net6.0\comparison.exe
+C:\Users\irish\OneDrive\Рабочий стол\ДЗ знакомство с языками программирования\comparison\bin\Debug\net6.0\comparison.deps.json
+C:\Users\irish\OneDrive\Рабочий стол\ДЗ знакомство с языками программирования\comparison\bin\Debug\net6.0\comparison.runtimeconfig.json
+C:\Users\irish\OneDrive\Рабочий стол\ДЗ знакомство с языками программирования\comparison\bin\Debug\net6.0\comparison.dll
+C:\Users\irish\OneDrive\Рабочий стол\ДЗ знакомство с языками программирования\comparison\bin\Debug\net6.0\comparison.pdb
+C:\Users\irish\OneDrive\Рабочий стол\ДЗ знакомство с языками программирования\comparison\obj\Debug\net6.0\comparison.csproj.AssemblyReference.cache
+C:\Users\irish\OneDrive\Рабочий стол\ДЗ знакомство с языками программирования\comparison\obj\Debug\net6.0\comparison.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irish\OneDrive\Рабочий стол\ДЗ знакомство с языками программирования\comparison\obj\Debug\net6.0\comparison.AssemblyInfoInputs.cache
+C:\Users\irish\OneDrive\Рабочий стол\ДЗ знакомство с языками программирования\comparison\obj\Debug\net6.0\comparison.AssemblyInfo.cs
+C:\Users\irish\OneDrive\Рабочий стол\ДЗ знакомство с языками программирования\comparison\obj\Debug\net6.0\comparison.csproj.CoreCompileInputs.cache
+C:\Users\irish\OneDrive\Рабочий стол\ДЗ знакомство с языками программирования\comparison\obj\Debug\net6.0\comparison.dll
+C:\Users\irish\OneDrive\Рабочий стол\ДЗ знакомство с языками программирования\comparison\obj\Debug\net6.0\refint\comparison.dll
+C:\Users\irish\OneDrive\Рабочий стол\ДЗ знакомство с языками программирования\comparison\obj\Debug\net6.0\comparison.pdb
+C:\Users\irish\OneDrive\Рабочий стол\ДЗ знакомство с языками программирования\comparison\obj\Debug\net6.0\comparison.genruntimeconfig.cache
+C:\Users\irish\OneDrive\Рабочий стол\ДЗ знакомство с языками программирования\comparison\obj\Debug\net6.0\ref\comparison.dll
